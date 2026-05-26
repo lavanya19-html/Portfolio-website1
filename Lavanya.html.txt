@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal Portfolio Website</title>
+
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+            margin: 0;
+            padding: 0;
+        }
+
+
+        .container{
+            width: 80%;
+            margin: 40px auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0,0,0,0.1);
+        }
+
+
+        h1{
+            color: #0b1b3f;
+            font-size: 42px;
+        }
+
+
+        .blue{
+            color: #0066ff;
+            font-size: 32px;
+        }
+
+
+        .green{
+            color: #00b894;
+            font-size: 32px;
+        }
+
+
+        p{
+            font-size: 20px;
+            line-height: 1.6;
+            color: #333;
+        }
+
+
+        ul{
+            font-size: 20px;
+            line-height: 2;
+            color: #444;
+        }
+    </style>
+</head>
+<body>
+
+
+    <div class="container">
+
+
+        <h1>Personal Portfolio Website</h1>
+
+
+        <p>
+            Build a full-stack personal portfolio to showcase your
+            projects and skills.
+        </p>
+
+
+        <h2 class="blue">Key Features:</h2>
+
+
+        <ul>
+            <li>Frontend: HTML, CSS, JavaScript (or React.js)</li>
+
+
+            <li>Backend: Node.js/Express.js or Django/Flask</li>
+
+
+            <li>
+                Database: Store project details using MySQL,
+                MongoDB, or PostgreSQL
+            </li>
+
+
+            <li>
+                Deploy website on a hosting platform
+                (Heroku, Netlify, or Vercel)
+            </li>
+        </ul>
+
+
+        <h2 class="green">Expected Outcome:</h2>
+
+
+        <p>
+            Gain experience in integrating frontend, backend,
+            and database for a live project.
+        </p>
+
+
+    </div>
+
+
+</body>
+</html>
